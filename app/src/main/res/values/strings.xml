@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DaftarDino</string>
+    <string name="dino_name">Nama</string>
+    <string name="dino_height_width">Tinggi/Panjang</string>
+    <string name="dino_weight">Berat</string>
+    <string name="dino_fact">Fakta Menarik</string>
+    <string name="about_me">About</string>
+    <string name="my_name">Putu Widiarsa Kurniawan S</string>
+    <string name="name">Name :</string>
+    <string name="email">Email :</string>
+    <string name="my_email">putu@poltekkesdepkes-sby.ac.id</string>
+    <string name="quotes">Quote :</string>
+    <string name="my_fav_quote1">\"There are people in the world so hungry, that God cannot appear to them except in the form of bread.\" - Mahatma Gandhi</string>
+    <string name="dino_pic">Gambar Dinosaurus</string>
+</resources>
